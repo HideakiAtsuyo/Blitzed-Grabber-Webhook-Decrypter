@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+upcITTa/0Y1OJPRzmAccZ4SBX08e8hLM6/kZjgdHrL7fv5AS63a5cw3oOTMqDLX6fhfLMtV+N39iHfHbQoPkw==",
+  "success": true,
+  "projectFilePath": "D:\\ATM\\Save 10-11-2021\\Users\\Administrator\\Desktop\\VisualStudio\\BlitzedWebhookDecrypter\\BlitzedWebhookDecrypter\\BlitzedWebhookDecrypter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\dnlib\\3.5.0\\dnlib.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

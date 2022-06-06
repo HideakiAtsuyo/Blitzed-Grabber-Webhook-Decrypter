@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ATM\\Save 10-11-2021\\Users\\Administrator\\Desktop\\VisualStudio\\BlitzedWebhookDecrypter\\BlitzedWebhookDecrypter\\BlitzedWebhookDecrypter.csproj": {}
+  },
+  "projects": {
+    "D:\\ATM\\Save 10-11-2021\\Users\\Administrator\\Desktop\\VisualStudio\\BlitzedWebhookDecrypter\\BlitzedWebhookDecrypter\\BlitzedWebhookDecrypter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ATM\\Save 10-11-2021\\Users\\Administrator\\Desktop\\VisualStudio\\BlitzedWebhookDecrypter\\BlitzedWebhookDecrypter\\BlitzedWebhookDecrypter.csproj",
+        "projectName": "BlitzedWebhookDecrypter",
+        "projectPath": "D:\\ATM\\Save 10-11-2021\\Users\\Administrator\\Desktop\\VisualStudio\\BlitzedWebhookDecrypter\\BlitzedWebhookDecrypter\\BlitzedWebhookDecrypter.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\ATM\\Save 10-11-2021\\Users\\Administrator\\Desktop\\VisualStudio\\BlitzedWebhookDecrypter\\BlitzedWebhookDecrypter\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "dnlib": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
